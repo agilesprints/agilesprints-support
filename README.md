@@ -1,4 +1,4 @@
-# Agile Sprints support
+# Agily.io Support
 
 A place to get help about Agily.
 
